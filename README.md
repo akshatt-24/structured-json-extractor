@@ -43,7 +43,7 @@ FINAL STRUCTURED OUTPUT (ExtractionResult)
 
 ## Features
 
-- **LLM-powered extraction** using `meta-llama/llama-3.3-70b-instruct:free` via OpenRouter (free tier available)
+- **LLM-powered extraction** using `nvidia/nemotron-3-super-120b-a12b:free` via OpenRouter (free tier available)
 - **Instructor integration** — automatic Pydantic schema enforcement on LLM responses
 - **Retry logic** — configurable exponential back-off via Tenacity
 - **JSON repair** — malformed model outputs are sent back for correction automatically
