@@ -1,0 +1,23 @@
+[SUPPORT TICKET — INTERNAL SYSTEM EXPORT]
+Ticket ID: TKT-2024-09183
+Created: 2024-11-15 09:42:17 UTC
+Channel: Live Chat
+Agent: Unassigned
+
+--- TRANSCRIPT ---
+
+User: hi i need help
+User: my name is alex chen and i bought the logitech mx master 3 mouse like 2 weeks ago
+User: order was ORD-77340
+User: it stopped working yesterday out of nowhere
+User: wont connect to my laptop anymore, tried re-pairing like 5 times
+User: bluetooth just doesnt see it
+User: i work from home and this is literally my only mouse so i need this fixed ASAP
+User: i paid 99 dollars for this and it should NOT be breaking after 2 weeks
+User: i want either a new one or my money back
+User: im getting really frustrated that no one has responded for the past hour
+
+[Chat ended - customer disconnected]
+--- END TRANSCRIPT ---
+
+Internal tags: #bluetooth #connectivity #defective #wfh #urgent
